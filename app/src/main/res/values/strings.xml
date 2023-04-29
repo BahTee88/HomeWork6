@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWork_6</string>
+    <string name="HelloWorld">Добро Пожаловать!</string>
+    <string name="HomeWork">Выполните вход</string>
+    <string name="register">или зарегистрируйтесь</string>
+    <string name="click">Нажми сюда</string>
+    <string name="forget">Забыли пароль?</string>
+    <string name="enter">Войти</string>
+    <string name="enter_password">ведите пароль</string>
+    <string name="ed_your_name">Введите вашу почту</string>
+</resources>
